@@ -1,0 +1,14 @@
+{
+  "name": "promise-task-lock",
+  "version": "1.0.0",
+  "description": "对promise任务添加 lock\\ unlock \\ clearlock 的功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node ./src/test.ts"
+  },
+  "author": "yiqing",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.19.2"
+  }
+}
