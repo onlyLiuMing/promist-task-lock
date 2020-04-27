@@ -1,6 +1,6 @@
 {
   "name": "promise-task-lock",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "对promise任务添加 lock\\ unlock \\ clearlock 的功能",
   "main": "index.js",
   "repository": {
