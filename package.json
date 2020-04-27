@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "对promise任务添加 lock\\ unlock \\ clearlock 的功能",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/onlyLiuMing/promist-task-lock"
+  },
   "scripts": {
     "test": "ts-node ./src/test.ts"
   },
