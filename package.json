@@ -1,8 +1,8 @@
 {
   "name": "promise-task-lock",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "对promise任务添加 lock\\ unlock \\ clearlock 的功能",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": {
     "url": "https://github.com/onlyLiuMing/promist-task-lock"
   },
